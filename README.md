@@ -17,7 +17,6 @@
 
 <br/>  
 
-## Personal Portfolio:
-https://andresdalla.github.io/PortfolioWeb/
+
 
 
